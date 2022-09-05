@@ -1,0 +1,24 @@
+mdn
+w3school
+fontawesome
+flaticon
+favicon.cc
+dribble
+Bootstrap
+giphy
+colourhunt
+fonts.google.com
+codeply
+techcrunch
+github
+ui-pattern
+bootsnipp
+adobecolor
+pesticide extension
+html tree visulizer
+minify to minimize js and css code
+npm node package manager
+dailyui
+canva
+postman
+json viewer pro
